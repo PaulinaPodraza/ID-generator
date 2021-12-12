@@ -1,0 +1,8 @@
+{
+  "name": "@paulinapodraza/id-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:PaulinaPodraza/ID-generator.git",
+  "author": "Paulina Podraza <80419830+PaulinaPodraza@users.noreply.github.com>",
+  "license": "MIT"
+}
